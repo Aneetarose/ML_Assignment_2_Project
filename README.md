@@ -13,9 +13,7 @@ Build and evaluate five classification algorithms on the same dataset, save the 
 - **Included files:** `dataset.csv` (full dataset) and `test_data.csv` (held-out test subset with target column).
 
 ## c. GitHub Repository Link
-After creating and pushing this project to your GitHub account, replace this line with your repository URL:
-
-`PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE`
+https://github.com/Aneetarose/ML_Assignment_2_Project.git
 
 ## d. Models used and evaluation
 
